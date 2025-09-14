@@ -1,39 +1,61 @@
-# 👋 Hi, I’m Devrim Yilmaz
+# 👋 Hi, I’m Devrim Yilmaz  
 
-💻 Full-Stack Developer | Backend Specialist | Mentor
+💻 Full-Stack Developer | Backend Specialist | Mentor  
 
-I build scalable, data-driven applications with modern technologies. My expertise spans **frontend, backend, databases, cloud, and DevOps**, and I enjoy turning complex problems into clean, maintainable solutions.
+I build scalable, data-driven applications with modern technologies. My expertise spans **frontend, backend, databases, cloud, and DevOps**, and I enjoy turning complex problems into clean, maintainable solutions.  
 
 🔗 Portfolio: [portfolioviewer.onrender.com](https://portfolioviewer.onrender.com)  
-🔗 GitHub: [github.com/devrimsavas](https://github.com/devrimsavas)
+🔗 GitHub: [github.com/devrimsavas](https://github.com/devrimsavas)  
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend**  
-- React, Next.js, Vite, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Sass/SCSS, jQuery, Redux/Context API
+### 🌐 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>  
 
-**Backend**  
-- C#, ASP.NET Core  
-- Java, Spring Boot  
-- Node.js, Express.js, EJS  
-- Python (Flask, Django)  
-- PHP, Go
+### ⚙️ Backend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>  
 
-**Databases & Messaging**  
-- MySQL, PostgreSQL, **MSSQL**, MongoDB, Redis, RabbitMQ
+### 🗄️ Databases & Messaging  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>  
 
-**Cloud & DevOps**  
-- Docker, Kubernetes  
-- AWS (Lambda, S3, EC2), **Azure (Functions, App Services)**, Firebase  
-- CI/CD (GitHub Actions, Jenkins)
+### ☁️ Cloud & DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>  
 
-**Other Tools**  
-- GraphQL, REST APIs, WebSockets  
-- Swagger / OpenAPI, Postman  
-- Agile/Scrum, Jira, Azure DevOps  
-- Testing: Jest, Mocha, Supertest
+### 🔧 Tools & Other  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>  
 
 ---
 
@@ -44,73 +66,67 @@ I build scalable, data-driven applications with modern technologies. My expertis
   *Node.js, Express.js, PostgreSQL, Socket.IO, Bootstrap*
 
 - **[NOVAMED Clinic Appointment Booking System](https://github.com/devrimsavas/Clinic-Appointment-FullStack)**  
-  Full-stack appointments with roles (patients, doctors, staff, admins).  
+  Full-stack appointment system with patients, doctors, staff, and admins.  
   *ASP.NET 8, Next.js 14, Tailwind CSS, MySQL*
 
 - **[Movie Theater](https://github.com/devrimsavas/Movie-Theater_NextJS)**  
-  Cinema app fetching from a public API with admin CRUD.  
+  Cinema booking app fetching movies from a public API, with CRUD admin panel.  
   *Next.js, React, Tailwind CSS, REST API*
 
 - **[Restaurant Management Gateway (Microservices)](https://github.com/devrimsavas/Restaurant-Management-Microservices)**  
-  Customer / employee / management services behind a gateway.  
-  *Node.js, Express.js, **MSSQL**, Azure, Bootstrap*
+  Multi-service architecture with customer, employee, and management services.  
+  *Node.js, Express.js, MSSQL, Azure, Bootstrap*
 
 - **[Stock Market Analyzer (Flask + ML)](https://github.com/devrimsavas/StockMarket_Analyzer_Flask)**  
-  Time-series forecasting with Linear Regression & LSTM.  
-  *Python, Flask, TensorFlow, Scikit-Learn, yfinance*
+  Stock analysis & forecasting using Linear Regression + LSTM.  
+  *Python, Flask, TensorFlow, Scikit-Learn, YFinance*
 
 - **[E-Commerce Platform](https://github.com/devrimsavas/E-Commercial_V1)**  
-  Admin, customer, and guest flows with auth & docs.  
+  Full e-commerce system with admin, customer, and guest roles.  
   *Node.js, Express.js, MySQL, JWT, React, Tailwind CSS, Swagger*
 
 - **[Real-Time News Aggregator](https://github.com/devrimsavas/World_news_october)**  
-  Selenium scraping + Redis caching + Auth0 user saves.  
+  Selenium-based live scraping of multiple news sources with Redis caching.  
   *Node.js, Selenium, Redis, Auth0, Bootstrap, Swagger*
 
 - **[DevHouse API](https://github.com/devrimsavas/aug24ft-bet-ca-devrimsavas)**  
-  JWT-secured resource management API with Swagger.  
+  REST API for managing developers, teams, and projects with JWT auth.  
   *ASP.NET Core, MySQL, EF Core, Swagger, Docker*
 
 - **[Data Quality Checker](https://github.com/devrimsavas/Data-Quality-Checker)**  
-  CSV validation GUI (missing values, duplicates, error ratio).  
+  GUI tool for CSV validation (missing values, duplicates, error ratio).  
   *Python, Pandas, Tkinter, OpenPyXL*
 
 - **[Mushroom Prediction](https://github.com/devrimsavas/Mushroom-Prediction-Program)**  
-  Decision Tree classifier demo with visuals.  
+  Decision Tree Classifier predicting mushroom features.  
   *Python, Scikit-Learn, Pandas, Tkinter*
 
 - **[Diabetes Prediction](https://github.com/devrimsavas/diabetpredictionsklearn)**  
-  Classification with metrics (accuracy, precision, recall, F1).  
+  Machine learning app predicting diabetes likelihood with metrics reporting.  
   *Python, Scikit-Learn, Pandas, Matplotlib*
 
 - **[Census Application](https://github.com/devrimsavas/Census-App)**  
-  Basic CRUD API (Render demo).  
+  CRUD app for managing participants, deployed on Render.  
   *Node.js, Express.js, Sessions, dotenv*
 
 - **[MongoDB CRUD Demo](https://github.com/devrimsavas/MongoDB-CRUD-Operation-Demo)**  
-  Simple CRUD with Swagger docs.  
+  Basic CRUD app for managing cars with MongoDB.  
   *ASP.NET Core, MongoDB, Swagger*
 
 - **[Chat Module with JWT & Socket](https://github.com/devrimsavas/Chat-Module-JWT-Socket)**  
-  Real-time chat with token-based auth.  
+  Real-time chat system with JWT authentication and Socket.IO.  
   *Node.js, Express.js, JWT, Socket.IO, Bootstrap*
 
 - **[Dotnet MySQL Backend (Tutorial)](https://github.com/devrimsavas/Dotnet_MySql_BackEnd)**  
-  EF Core & Dapper CRUD comparison tutorial.  
-  *ASP.NET Core, MySQL, EF Core, Dapper*
-
----
-
-## 🧪 Experiments & Extras
-- **Games & Automation**: Unity and Python-based simulations/automation (private repos).  
-- **Scraping & Pipelines**: Node.js + Selenium scrapers, Python data pipelines (PoCs).  
-- **Training/Tutorials**: Multiple educational repos created for students.
+  ASP.NET backend tutorial with EF Core and Dapper CRUD examples.  
+  *ASP.NET Core, MySQL, EF Core, Dapper*  
 
 ---
 
 ## 👨‍🏫 Current Role
-- **Back-End Instructor (Oslo, 2024– )** — C#, ASP.NET, JavaScript, Node.js, databases  
-- **Mentor for Noroff Back-End Students**
+- **Back-End Instructor  (Oslo, 2024– )**  
+  Teaching C#, ASP.NET, JavaScript, Node.js, and databases.  
+- **Mentor for Noroff Back-End Students**  
 
 ---
 
@@ -119,9 +135,9 @@ I build scalable, data-driven applications with modern technologies. My expertis
 - Norwegian (Good)  
 - German (Fluent)  
 - Russian (Intermediate)  
-- French (Intermediate)
+- French (Intermediate)  
 
 ---
 
-✨ Open to collaboration and backend-focused roles.  
+✨ I’m always open to collaboration, professional opportunities, and building impactful backend systems.  
 📫 Contact: **devrimsavasyilmaz@gmail.com**
