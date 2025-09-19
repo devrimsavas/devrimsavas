@@ -5,7 +5,7 @@
 I build scalable, data-driven applications with modern technologies. My expertise spans **frontend, backend, databases, cloud, and DevOps**, and I enjoy turning complex problems into clean, maintainable solutions.  
 
 🔗 Portfolio: [portfolioviewer.onrender.com](https://portfolioviewer.onrender.com)  
-🔗 Linkedin : [linkedin.com/in/devrim-savas-yilmaz-442b43384] (https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
+🔗 Linkedin : [linkedin.com/in/devrim-savas-yilmaz-442b43384](https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
 
 🔗 GitHub: [github.com/devrimsavas](https://github.com/devrimsavas)  
 
