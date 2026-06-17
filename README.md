@@ -8,7 +8,6 @@
 *Building scalable, data-driven applications — from React frontends to .NET and Node.js backends*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioviewer.onrender.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrimsavasyilmaz@gmail.com)
 
 </div>
@@ -62,11 +61,11 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 
 | Project | Description | Tech |
 |---|---|---|
+| [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
 | [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments, dynamic cart and webhook handling | .NET 9, Next.js 14, PostgreSQL, Stripe |
-| [**NOVAMED**](https://github.com/devrimsavas/Clinic-Appointment-FullStack) | Clinic appointment booking system with patient, doctor, staff and admin roles | ASP.NET 8, Next.js 14, Tailwind, MySQL |
-| [**Alive Restaurant**](https://github.com/devrimsavas/Alive_Restaurant_Management_socket_PostgreSQL) | Microservices architecture with API gateway and real-time communication via Socket.IO | Node.js, Express, PostgreSQL, Socket.IO |
-| [**Stock Market Analyzer**](https://github.com/devrimsavas/StockMarket_Analyzer_Flask) | Stock forecasting using Linear Regression and LSTM neural networks | Python, Flask, TensorFlow, Scikit-Learn |
-| [**E-Commerce Platform**](https://github.com/devrimsavas/E-Commercial_V1) | Full e-commerce system with admin, customer and guest roles, JWT auth | Node.js, React, MySQL, Tailwind, Swagger |
+| [**NOVAMED**](https://github.com/devrimsavas/Clinic-Appointment-FullStack) | Clinic appointment system with patient, doctor, staff and admin roles, JWT auth and full CRUD | ASP.NET 8, Next.js 14, Tailwind, MySQL |
+| [**Hotel Management**](https://github.com/devrimsavas/HotelManagementA) | Hotel booking and management system with room availability, reservations and admin dashboard | ASP.NET, C# |
+| [**Movie Theater**](https://github.com/devrimsavas/Movie_Theater_New) | Cinema ticketing system with seat selection, scheduling and booking management | Node.js, PostgreSQL |
 
 ---
 
@@ -87,4 +86,3 @@ I'm open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **devrimsavasyilmaz@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
-- 🌐 [Portfolio](https://portfolioviewer.onrender.com)
