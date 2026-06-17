@@ -18,7 +18,7 @@
 
 I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
 
-- 🔭 Currently building **[NorskHandverk](https://github.com/devrimsavas/NorskHandverk)** — a full-stack e-commerce platform with .NET 9 and Stripe
+- 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
 - 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
 - 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
