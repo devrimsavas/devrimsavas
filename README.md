@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Github-Banner-Devrim.png" alt="Devrim Savas Yilmaz – Full-Stack Developer" width="100%"/>
+<img src="Github-Banner-Devrim1.png" alt="Devrim Savas Yilmaz – Full-Stack Developer" width="100%"/>
 
 # Hi, I'm Devrim 👋
 ### Full-Stack Developer · Backend Specialist · Mentor
