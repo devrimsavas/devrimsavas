@@ -77,7 +77,8 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 
 <div align="center">
 
-![Devrim's GitHub Stats](https://github-readme-stats-eight-theta-nine.vercel.app/api?username=devrimsavas&show_icons=true&theme=tokyonight&hide_border=true)
+![Devrim's GitHub Stats](https://github-readme-stats-seven-chi-15.vercel.app/api?username=devrimsavas&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-seven-chi-15.vercel.app/api/top-langs/?username=devrimsavas&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
