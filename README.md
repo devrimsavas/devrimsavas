@@ -19,6 +19,7 @@
 I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
 
 - 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#
+- 📈 Actively expanding into **GCP**, **Kotlin**, and **Terraform/IaC** — building on existing Azure, Java and Docker/Kubernetes experience
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
 - 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
 - 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
@@ -61,11 +62,14 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 
 | Project | Description | Tech |
 |---|---|---|
-| [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
-| [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments, dynamic cart and webhook handling | .NET 9, Next.js 14, PostgreSQL, Stripe |
+| [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments (idempotent checkout, webhooks), dynamic cart and relational data modeling *(in progress)* | .NET 9, Next.js 14, PostgreSQL, Stripe |
+| [**ETL & Microservices with AdventureWorks**](https://github.com/devrimsavas/ETL-MicroService-Msql) | End-to-end data pipeline: microservices architecture over a shared SQL database, ETL transformations, and Power BI visualizations | Node.js, Express, MSSQL, Power BI |
+| [**Clinic Queue Management (mediq-fifo)**](https://github.com/devrimsavas/mediq-fifo-microservices) | Real-time FIFO queue system for a medical practice — gateway + 3 microservices with live WebSocket updates for patients and staff | Node.js, Express, WebSockets, Microservices |
 | [**NOVAMED**](https://github.com/devrimsavas/Clinic-Appointment-FullStack) | Clinic appointment system with patient, doctor, staff and admin roles, JWT auth and full CRUD | ASP.NET 8, Next.js 14, Tailwind, MySQL |
-| [**Hotel Management**](https://github.com/devrimsavas/HotelManagementA) | Hotel booking and management system with room availability, reservations and admin dashboard | ASP.NET, C# |
-| [**Movie Theater**](https://github.com/devrimsavas/Movie_Theater_New) | Cinema ticketing system with seat selection, scheduling and booking management | Node.js, PostgreSQL |
+| [**DevHouse4**](https://github.com/devrimsavas/DevHouse4) | REST API for managing developers, teams, and projects with JWT auth and Swagger docs | ASP.NET Core, EF Core, Swagger, Docker |
+| [**Restaurant Management (Microservices)**](https://github.com/devrimsavas/restaurant-management-microservices) | Multi-service architecture with separate customer, employee, and management services, deployed on Azure | Node.js, Express, MSSQL, Azure |
+| [**RabbitStock Demo**](https://github.com/devrimsavas/rabbitstockdemo) | Event-driven microservices demo using RabbitMQ for async messaging between inventory and order services | TypeScript, Node.js, RabbitMQ, Docker |
+| [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
 
 ---
 
