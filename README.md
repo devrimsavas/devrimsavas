@@ -8,6 +8,7 @@
 *Building scalable, data-driven applications — from React frontends to .NET and Node.js backends*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white)](https://portfolioviewer.onrender.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrimsavasyilmaz@gmail.com)
 
 </div>
@@ -18,12 +19,12 @@
 
 I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
 
-- 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#
+- 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
+- 🔌 Built microservices using four different communication patterns — REST gateway, WebSockets, RabbitMQ, and ETL data streaming
 - 📈 Actively expanding into **GCP**, **Kotlin**, and **Terraform/IaC** — building on existing Azure, Java and Docker/Kubernetes experience
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
 - 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
 - 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
-- 🕹️ Hobby: building **hardware emulators** in my spare time
 
 ---
 
@@ -47,6 +48,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -55,6 +57,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -67,7 +70,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 | [**Clinic Queue Management (mediq-fifo)**](https://github.com/devrimsavas/mediq-fifo-microservices) | Real-time FIFO queue system for a medical practice — gateway + 3 microservices with live WebSocket updates for patients and staff | Node.js, Express, WebSockets, Microservices |
 | [**NOVAMED**](https://github.com/devrimsavas/Clinic-Appointment-FullStack) | Clinic appointment system with patient, doctor, staff and admin roles and full CRUD | ASP.NET 8, Next.js 14, Tailwind, MySQL |
 | [**DevHouse4**](https://github.com/devrimsavas/DevHouse4) | REST API for managing developers, teams, and projects with JWT auth and Swagger docs | ASP.NET Core, EF Core, Swagger, Docker |
-| [**Restaurant Management (Microservices)**](https://github.com/devrimsavas/restaurant-management-microservices) | Multi-service architecture with separate customer, employee, and management services, deployed on Azure | Node.js, Express, MSSQL, Azure |
+| [**SnapShop E-Commerce**](https://github.com/devrimsavas/ecommerce-platform) | Full-stack e-commerce platform with role-based access (admin/user/guest), Sequelize/MySQL, JWT auth, and automated Jest + Supertest tests | Node.js, Express, Sequelize, MySQL, Jest |
 | [**RabbitStock Demo**](https://github.com/devrimsavas/rabbitstockdemo) | Event-driven microservices demo using RabbitMQ for async messaging between inventory and order services | TypeScript, Node.js, RabbitMQ, Docker |
 | [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
 
@@ -79,3 +82,4 @@ I'm open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **devrimsavasyilmaz@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/devrim-savas-yilmaz-442b43384/)
+- 🌐 [Portfolio](https://portfolioviewer.onrender.com/)
