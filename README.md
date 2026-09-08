@@ -20,7 +20,7 @@
 I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
 
 - 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
-- 🔌 Built microservices using four different communication patterns — REST gateway ([restaurant-management](...), [mediq-fifo](...)), WebSockets ([mediq-fifo](...)), RabbitMQ ([rabbitstockdemo](...)), and ETL data streaming ([ETL-MicroService-Msql](...))
+- 🔌 Built microservices using four different communication patterns — REST gateway, WebSockets, RabbitMQ, and ETL data streaming
 - 📈 Actively building toward **Kotlin + Spring Boot** — practicing the domain and REST layers separately in Java ([SPRINGBOOT1](https://github.com/devrimsavas/SPRINGBOOT1), [SPRINGBOOT5](https://github.com/devrimsavas/SPRINGBOOT5)) ahead of combining them into [KotlinBankingAPI](https://github.com/devrimsavas/KotlinBankingAPI); also expanding into **GCP** and **Terraform/IaC** on top of existing Azure and Docker/Kubernetes experience
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
 - 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
