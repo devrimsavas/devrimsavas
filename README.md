@@ -21,7 +21,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 
 - 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
 - 🔌 Built microservices using four different communication patterns — REST gateway, WebSockets, RabbitMQ, and ETL data streaming
-- 📈 Actively expanding into **GCP**, **Kotlin**, and **Terraform/IaC** — building on existing Azure, Java and Docker/Kubernetes experience
+- 📈 Actively building toward **Kotlin + Spring Boot** — practicing the domain and REST layers separately in Java ([SPRINGBOOT1](https://github.com/devrimsavas/SPRINGBOOT1), [SPRINGBOOT5](https://github.com/devrimsavas/SPRINGBOOT5)) ahead of combining them into [KotlinBankingAPI](https://github.com/devrimsavas/KotlinBankingAPI); also expanding into **GCP** and **Terraform/IaC** on top of existing Azure and Docker/Kubernetes experience
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
 - 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
 - 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
@@ -42,8 +42,11 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -73,6 +76,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 | [**SnapShop E-Commerce**](https://github.com/devrimsavas/ecommerce-platform) | Full-stack e-commerce platform with role-based access (admin/user/guest), Sequelize/MySQL, JWT auth, and automated Jest + Supertest tests | Node.js, Express, Sequelize, MySQL, Jest |
 | [**RabbitStock Demo**](https://github.com/devrimsavas/rabbitstockdemo) | Event-driven microservices demo using RabbitMQ for async messaging between inventory and order services | TypeScript, Node.js, RabbitMQ, Docker |
 | [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
+| [**GraphQLBlogAPI**](https://github.com/devrimsavas/GraphQLBlogAPI) | GraphQL blog API with JWT authentication and resolver-level role-based authorization | ASP.NET Core, HotChocolate, GraphQL, EF Core |
 
 ---
 
