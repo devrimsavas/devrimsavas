@@ -87,5 +87,5 @@ I'm open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **devrimsavasyilmaz@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/devrimsavas/)
-- 🌐 [Portfolio](https://portfolioviewer.onrender.com/)
+- 🌐 [Portfolio](https://portfolioviewer.onrender.com/) Updating...
 - 📄 [CV / Resume](https://github.com/devrimsavas/CV-Resume)
