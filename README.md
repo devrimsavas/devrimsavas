@@ -5,7 +5,7 @@
 # Hi, I'm Devrim 👋
 ### Full-Stack Developer · Backend Specialist · Mentor
 
-*Building scalable, data-driven applications — from React frontends to .NET and Node.js backends*
+*Building scalable, data-driven applications — from React and Angular frontends to .NET, Node.js and Django backends*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrimsavas/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white)](https://portfolioviewer.onrender.com/)
@@ -20,7 +20,8 @@
 
 I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
 
-- 🔭 Currently building **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
+- 🌌 Recently built **[Aurora Trails](https://github.com/devrimsavas/NorthernTourGuide)** — a full-stack booking platform for Arctic tours in Northern Norway with overbooking-safe bookings, live weather and aurora forecasts, and 43 automated tests in CI (Django REST Framework, PostgreSQL, Angular)
+- 🖥️ Completed **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
 - 🔌 Built microservices using four different communication patterns — REST gateway, WebSockets, RabbitMQ, and ETL data streaming
 - 📈 Actively building toward **Kotlin + Spring Boot** — practicing the domain and REST layers separately in Java ([SPRINGBOOT1](https://github.com/devrimsavas/SPRINGBOOT1), [SPRINGBOOT5](https://github.com/devrimsavas/SPRINGBOOT5)) ahead of combining them into [KotlinBankingAPI](https://github.com/devrimsavas/KotlinBankingAPI); also expanding into **GCP** and **Terraform/IaC** on top of existing Azure and Docker/Kubernetes experience
 - 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
@@ -36,6 +37,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend
@@ -45,6 +47,8 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
@@ -52,6 +56,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -69,6 +74,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 
 | Project | Description | Tech |
 |---|---|---|
+| [**Aurora Trails**](https://github.com/devrimsavas/NorthernTourGuide) | Full-stack booking platform for Arctic adventure tours in Northern Norway. Overbooking-safe bookings with row-level locking, JWT auth with automatic token refresh, role-based customer and guide flows, live weather and aurora forecasts per tour date, Swagger docs and 43 automated tests in GitHub Actions | Django REST Framework, PostgreSQL, Angular, Tailwind |
 | [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments (idempotent checkout, webhooks), dynamic cart and relational data modeling *(in progress)* | .NET 9, Next.js 16, PostgreSQL, Stripe |
 | [**ETL & Microservices with AdventureWorks**](https://github.com/devrimsavas/ETL-MicroService-Msql) | End-to-end data pipeline: microservices architecture over a shared SQL database, ETL transformations, Power BI visualizations, and CI via GitHub Actions | Node.js, Express, MSSQL, Power BI |
 | [**Clinic Queue Management (mediq-fifo)**](https://github.com/devrimsavas/mediq-fifo-microservices) | Real-time FIFO queue system for a medical practice — gateway + 3 microservices with live WebSocket updates for patients and staff | Node.js, Express, WebSockets, Microservices |
@@ -77,6 +83,7 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 | [**SnapShop E-Commerce**](https://github.com/devrimsavas/ecommerce-platform) | Full-stack e-commerce platform with role-based access (admin/user/guest), Sequelize/MySQL, JWT auth, and automated Jest + Supertest tests | Node.js, Express, Sequelize, MySQL, Jest |
 | [**RabbitStock Demo**](https://github.com/devrimsavas/rabbitstockdemo) | Event-driven microservices demo using RabbitMQ for async messaging between inventory and order services | TypeScript, Node.js, RabbitMQ, Docker |
 | [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
+| [**DOSBox-X Toolkit**](https://github.com/devrimsavas/dos_box_utils) | Python toolset for live DOSBox-X processes: memory trainer to inject and freeze values, VGA and CGA video-memory viewers, and a snapshot diff tool for locating game addresses, with automatic process detection | Python, Tkinter |
 | [**GraphQLBlogAPI**](https://github.com/devrimsavas/GraphQLBlogAPI) | GraphQL blog API with JWT authentication and resolver-level role-based authorization | ASP.NET Core, HotChocolate, GraphQL, EF Core |
 
 ---
