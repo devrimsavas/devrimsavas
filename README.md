@@ -8,7 +8,6 @@
 *Building scalable, data-driven applications — from React and Angular frontends to .NET, Node.js and Django backends*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrimsavas/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=render&logoColor=white)](https://portfolioviewer.onrender.com/)
 [![CV / Resume](https://img.shields.io/badge/CV%2FResume-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrimsavas/CV-Resume)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrimsavasyilmaz@gmail.com)
 
@@ -75,13 +74,8 @@ I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on 
 | Project | Description | Tech |
 |---|---|---|
 | [**Aurora Trails**](https://github.com/devrimsavas/NorthernTourGuide) | Full-stack booking platform for Arctic adventure tours in Northern Norway. Overbooking-safe bookings with row-level locking, JWT auth with automatic token refresh, role-based customer and guide flows, live weather and aurora forecasts per tour date, Swagger docs and 43 automated tests in GitHub Actions | Django REST Framework, PostgreSQL, Angular, Tailwind |
-| [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments (idempotent checkout, webhooks), dynamic cart and relational data modeling *(in progress)* | .NET 9, Next.js 16, PostgreSQL, Stripe |
-| [**ETL & Microservices with AdventureWorks**](https://github.com/devrimsavas/ETL-MicroService-Msql) | End-to-end data pipeline: microservices architecture over a shared SQL database, ETL transformations, Power BI visualizations, and CI via GitHub Actions | Node.js, Express, MSSQL, Power BI |
-| [**Clinic Queue Management (mediq-fifo)**](https://github.com/devrimsavas/mediq-fifo-microservices) | Real-time FIFO queue system for a medical practice — gateway + 3 microservices with live WebSocket updates for patients and staff | Node.js, Express, WebSockets, Microservices |
-| [**NOVAMED**](https://github.com/devrimsavas/Clinic-Appointment-FullStack) | Clinic appointment system with patient, doctor, staff and admin roles and full CRUD | ASP.NET 8, Next.js 14, Tailwind, MySQL |
-| [**DevHouse4**](https://github.com/devrimsavas/DevHouse4) | REST API for managing developers, teams, and projects with JWT auth and Swagger docs | ASP.NET Core, EF Core, Swagger, Docker |
-| [**SnapShop E-Commerce**](https://github.com/devrimsavas/ecommerce-platform) | Full-stack e-commerce platform with role-based access (admin/user/guest), Sequelize/MySQL, JWT auth, and automated Jest + Supertest tests | Node.js, Express, Sequelize, MySQL, Jest |
-| [**RabbitStock Demo**](https://github.com/devrimsavas/rabbitstockdemo) | Event-driven microservices demo using RabbitMQ for async messaging between inventory and order services | TypeScript, Node.js, RabbitMQ, Docker |
+| [**NorskHandverk**](https://github.com/devrimsavas/NorskHandverk) | Full-stack e-commerce platform with Stripe payments (idempotent checkout, webhooks), dynamic cart and relational data modeling | .NET 9, Next.js 16, PostgreSQL, Stripe |
+| [**Order Store**](https://github.com/devrimsavas/mongorabbit) | Asynchronous order processing: orders are saved to MongoDB and published to RabbitMQ, where a background consumer reserves stock atomically, with a dead-letter queue for failed messages | ASP.NET Core 9, MongoDB, RabbitMQ, Angular |
 | [**BIT4 – 4-bit CPU Emulator**](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR) | Handcrafted 4-bit computer architecture built from scratch — custom CPU, ALU, RAM, VPU, assembler and instruction set. No frameworks. | C#, WinForms |
 | [**DOSBox-X Toolkit**](https://github.com/devrimsavas/dos_box_utils) | Python toolset for live DOSBox-X processes: memory trainer to inject and freeze values, VGA and CGA video-memory viewers, and a snapshot diff tool for locating game addresses, with automatic process detection | Python, Tkinter |
 | [**GraphQLBlogAPI**](https://github.com/devrimsavas/GraphQLBlogAPI) | GraphQL blog API with JWT authentication and resolver-level role-based authorization | ASP.NET Core, HotChocolate, GraphQL, EF Core |
@@ -94,5 +88,4 @@ I'm open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **devrimsavasyilmaz@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/devrimsavas/)
-- 🌐 [Portfolio](https://portfolioviewer.onrender.com/) Updating...
 - 📄 [CV / Resume](https://github.com/devrimsavas/CV-Resume)
