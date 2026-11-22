@@ -2,32 +2,32 @@
 
 <img src="Github-Banner-Devrim1.png" alt="Devrim Savas Yilmaz – Full-Stack Developer" width="100%"/>
 
-# Hi, I'm Devrim 👋
-### Full-Stack Developer · Backend Specialist · Mentor
+I'm a full-stack developer based in Drammen, Norway, with a strong focus on back-end architecture, clean API design and running my own production infrastructure. Right now I'm building a suite of products for small Norwegian businesses, all based on open public data.
 
-*Building scalable, data-driven applications — from React and Angular frontends to .NET, Node.js and Django backends*
+🌐 Portfolio: [devrimdev.no](https://www.devrimdev.no)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrimsavas/)
-[![CV / Resume](https://img.shields.io/badge/CV%2FResume-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devrimsavas/CV-Resume)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrimsavasyilmaz@gmail.com)
+### 🛠️ What I'm building
 
-</div>
+* 🛡️ **[Leverandørvakt](https://leverandorvakt.devrimdev.no)** ([code](https://github.com/devrimsavas/LEVERANDORVAKT)): live in production. An early-warning service that follows your suppliers and customers in the Brønnøysund registers and notifies you when something important changes, with explainable risk signals and an AI assistant (Node.js, TypeScript, Express 5, PostgreSQL, Next.js, Designsystemet)
+* 📅 **[Regelvakt](https://regelvakt.devrimdev.no)** ([code](https://github.com/devrimsavas/REGELVAKT)): live as a pilot. Enter an organization number, and a versioned rules engine shows which official obligations and deadlines apply to an ENK or AS, with calendar export, email reminders and an AI assistant that answers with numbered sources. About 370 unit and integration tests plus Playwright e2e tests with accessibility checks
+* 🚢 **Tollvakt**: in development. A customs and commodity code assistant for Norwegian exporters and importers, covering Norway, the EU and the UK, with a Python/pandas ETL service for tariff data
+* 🧶 **[NorskHandverk](https://norsk-handverk.vercel.app)** ([code](https://github.com/devrimsavas/NorskHandverk)): a full-stack e-commerce shop for Norwegian handcrafts with Stripe payments (.NET 9, Next.js, PostgreSQL)
 
----
+### ⚙️ Infrastructure
 
-## 🙋 About Me
+* 🐳 Everything runs in Docker Compose on my own VPS and a self-hosted Ubuntu home server, published through Cloudflare Tunnel with no open ports, with nightly database backups
+* ✅ Automated tests and GitHub Actions CI on every project
 
-I'm a full-stack developer based in **Drammen, Norway**, with a strong focus on back-end architecture, cloud deployments, and clean API design. I enjoy turning complex problems into maintainable, well-structured solutions.
+### 📂 Earlier work
 
-- 🌌 Recently built **[Aurora Trails](https://github.com/devrimsavas/NorthernTourGuide)** — a full-stack booking platform for Arctic tours in Northern Norway with overbooking-safe bookings, live weather and aurora forecasts, and 43 automated tests in CI (Django REST Framework, PostgreSQL, Angular)
-- 🖥️ Completed **[BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR)** — a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#, as part of a broader hobby in building hardware emulators
-- 🔌 Built microservices using four different communication patterns — REST gateway, WebSockets, RabbitMQ, and ETL data streaming
-- 📈 Actively building toward **Kotlin + Spring Boot** — practicing the domain and REST layers separately in Java ([SPRINGBOOT1](https://github.com/devrimsavas/SPRINGBOOT1), [SPRINGBOOT5](https://github.com/devrimsavas/SPRINGBOOT5)) ahead of combining them into a Kotlin banking API; also expanding into **GCP** and **Terraform/IaC** on top of existing Azure and Docker/Kubernetes experience
-- 🧑‍🏫 Former instructor at **JobLoop** and mentor at **Noroff** — taught C#, ASP.NET, Node.js and JavaScript
-- 🤖 Daily user of **GitHub Copilot** and **Cursor** for AI-assisted development
-- 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
+* 🌌 [Aurora Trails](https://github.com/devrimsavas/NorthernTourGuide): a full-stack booking platform for Arctic tours with overbooking-safe bookings, live weather and aurora forecasts, and 43 automated tests in CI (Django REST Framework, PostgreSQL, Angular)
+* 🖥️ [BIT4](https://github.com/devrimsavas/CPU-4-BIT-EMULATOR): a handcrafted 4-bit CPU emulator with custom ISA, ALU, RAM and VPU, built from scratch in C#
+* 🔌 Microservices with four communication patterns: REST gateway, WebSockets, RabbitMQ and ETL data streaming
 
----
+### 👋 About me
+
+* 🧑‍🏫 Former instructor at JobLoop and mentor at Noroff, teaching C#, ASP.NET, Node.js and JavaScript
+* 🌍 Fluent in 6 languages: English, Norwegian, Turkish, German, French, Russian
 
 ## 🛠️ Tech Stack
 
